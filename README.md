@@ -4,18 +4,18 @@
  It uses OOP concepts such as constructors, arrays, and methods to manage user input, including scoop
  sizes and flavors, and generates a summary of each order.
 
-*Features: 
--> Supports up to 3 users
--> Custom number of ice creams per user
--> Up to 3 scoops per ice cream
--> Dynamic flavor selection
--> Uses constructors and arrays
+## Features:
+*Features: -> Supports up to 3 users
+*Features: -> Custom number of ice creams per user
+*Features: -> Up to 3 scoops per ice cream
+*Features: -> Dynamic flavor selection
+*Features: -> Uses constructors and arrays
 
-*Concepts Used : 
--> Object-Oriented Programming (OOP)
--> Constructors (overloading)
--> Arrays (1D & 2D)
--> Loops and input handling.
+## Concepts Used : 
+*Concepts Used : -> Object-Oriented Programming (OOP)
+*Concepts Used : -> Constructors (overloading)
+*Concepts Used : -> Arrays (1D & 2D)
+*Concepts Used : -> Loops and input handling.
 
 ## How to Run
 1. Compile the program:
