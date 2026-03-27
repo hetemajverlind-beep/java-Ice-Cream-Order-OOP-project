@@ -5,17 +5,25 @@
  sizes and flavors, and generates a summary of each order.
 
 ## Features:
-*Features: -> Supports up to 3 users
-*Features: -> Custom number of ice creams per user
-*Features: -> Up to 3 scoops per ice cream
-*Features: -> Dynamic flavor selection
-*Features: -> Uses constructors and arrays
+*1Features: -> Supports up to 3 users 
+
+*2Features: -> Custom number of ice creams per user
+
+*3Features: -> Up to 3 scoops per ice cream
+
+*4Features: -> Dynamic flavor selection
+
+*5Features: -> Uses constructors and arrays
 
 ## Concepts Used : 
-*Concepts Used : -> Object-Oriented Programming (OOP)
-*Concepts Used : -> Constructors (overloading)
-*Concepts Used : -> Arrays (1D & 2D)
-*Concepts Used : -> Loops and input handling.
+*1Concepts Used : -> Object-Oriented Programming (OOP)
+
+*2Concepts Used : -> Constructors (overloading)
+
+*3Concepts Used : -> Arrays (1D & 2D)
+
+*4Concepts Used : -> Loops and input handling.
+
 
 ## How to Run
 1. Compile the program:
